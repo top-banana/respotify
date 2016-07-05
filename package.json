@@ -1,12 +1,12 @@
 {
   "name": "respotify",
   "version": "1.0.0",
-  "description": "",
+  "description": "The webapp accompanying the React tutorial on patternhatch.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["react", "redux", "webpack", "babel"],
+  "author": "Nitin Punjabi",
+  "license": "MIT"
 }
