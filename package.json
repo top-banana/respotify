@@ -4,8 +4,8 @@
   "description": "The webapp accompanying the React tutorial on patternhatch.com",
   "main": "index.js",
   "scripts": {
-    "start": "node node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline",
-    "build": "node node_modules/webpack/bin/webpack.js",
+    "start": "webpack-dev-server --hot --inline",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
