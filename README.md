@@ -6,6 +6,6 @@ Each git branch corresponds to one part of the series, with the master branch co
 
 Part One: http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/
 
-Part Two: In progress (expected before July 22nd 2016)
+Part Two: http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/
 
-Part Three: To be written
+Part Three: In progress.
