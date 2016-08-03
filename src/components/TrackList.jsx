@@ -3,7 +3,7 @@ import Track from './Track';
 
 const TrackList = (props) => {
   const tracks = props.tracks.map((track) =>
-    <Track track={track} playPreview={props.playPreview} />);
+    <Track key={track.id} track={track} playPreview={props.playPreview} />);
 
   return (
     <div className="col-md-3">
